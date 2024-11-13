@@ -9,6 +9,7 @@ import WishList from "./Components/WishList";
 import BlogPage from "./Components/BlogPage";
 import Page404 from "./Components/Page404";
 import ScrollToTop from "./Components/ScrollToTp"
+import Signup from "./Components/Signup";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/Cart" element={<Cart/>} />
         <Route path="/WishList" element={<WishList/>} />
         <Route path="*" element={<Page404/>} />
+        <Route path="/Signup" element={<Signup/>}/>
       </Routes>
       <Footer/>
     </Router>

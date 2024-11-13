@@ -71,6 +71,11 @@ navbar.forEach(function(a){
                     Blog
                   </NavLink>
                 </li>
+                <li className="nav-item">
+                  <NavLink className="nav-link" to="/Signup">
+                    Signup/Login
+                  </NavLink>
+                </li>
                 <li className="nav-item heart">
                   <NavLink className="nav-link" to="/WishList"><i className='fa fa-heart text-danger'><span className="badge badge-danger">{amount2}</span></i></NavLink> 
                 </li>
