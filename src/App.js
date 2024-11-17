@@ -10,7 +10,7 @@ import BlogPage from "./Components/BlogPage";
 import Page404 from "./Components/Page404";
 import ScrollToTop from "./Components/ScrollToTp"
 import Signup from "./Components/Signup";
-
+import ProductDetail from "./Components/ProductDetail";
 function App() {
   return (
     <Router>
@@ -24,6 +24,7 @@ function App() {
         <Route path="/WishList" element={<WishList/>} />
         <Route path="*" element={<Page404/>} />
         <Route path="/Signup" element={<Signup/>}/>
+        <Route path="/ProductDetail" element={<ProductDetail/>}/>
       </Routes>
       <Footer/>
     </Router>

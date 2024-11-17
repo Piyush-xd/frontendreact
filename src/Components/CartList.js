@@ -87,7 +87,7 @@ const CartList = (props) => {
             </h4>
             <div className="product-price">
               <ins>
-                <span className="money text-white h5">${props.price}</span>
+                <span className="money text-white h5">₹{props.price}</span>
               </ins>
             </div>
           </div>

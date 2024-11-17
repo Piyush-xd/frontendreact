@@ -3,39 +3,40 @@
     "id": 1,
     "img": "image/product-img/b-1.jpg",
     "name": "Woman",
-    "price": 3999,
+    "price": 70000,
     "title": "Titanium Bracelet in ged palladiumfinish metal",
-    "amount": 1
+    "amount": 1,
+    "description":"kfk"
   },
   {
     "id": 2,
     "img": "image/product-img/b-2.jpg",
     "name": "Woman",
-    "price": 3599,
-    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "price": 50000,
+    "title": "White Gold Bracelet in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 3,
     "img": "image/product-img/b-3.jpg",
     "name": "Woman",
-    "price": 4599,
-    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "price": 30000,
+    "title": "Silver Bracelet Bracelet in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 4,
     "img": "image/product-img/b-4.jpg",
     "name": "Woman",
-    "price": 3899,
-    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "price": 100000,
+    "title": "Diamond Bracelet in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 5,
     "img": "image/product-img/r-1.jpg",
     "name": "Woman",
-    "price": 2999,
+    "price": 20000,
     "title": "Titanium Ring in ged palladiumfinish metal",
     "amount": 1
   },
@@ -43,39 +44,39 @@
     "id": 6,
     "img": "image/product-img/r-2.jpg",
     "name": "Woman",
-    "price": 2599,
-    "title": "Titanium Ring in ged palladiumfinish metal",
+    "price": 10000,
+    "title": "Blue Stone Ring in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 7,
     "img": "image/product-img/r-3.jpg",
     "name": "Woman",
-    "price": 3500,
-    "title": "Titanium Ring in ged palladiumfinish metal",
+    "price": 8000,
+    "title": "White Stone Ring in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 8,
     "img": "image/product-img/r-4.jpg",
     "name": "Woman",
-    "price": 1999,
-    "title": "Titanium Ring in ged palladiumfinish metal",
+    "price": 75000,
+    "title": "Diamond Ring in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 9,
     "img": "image/product-img/e-1.jpg",
     "name": "Woman",
-    "price": 5900,
-    "title": "Titanium Earings in ged palladiumfinish metal",
+    "price": 3000,
+    "title": "Earings in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 10,
     "img": "image/product-img/e-2.jpg",
     "name": "Woman",
-    "price": 4399,
+    "price": 10000,
     "title": "Titanium Earings in ged palladiumfinish metal",
     "amount": 1
   },
@@ -83,16 +84,16 @@
     "id": 11,
     "img": "image/product-img/e-3.jpg",
     "name": "Woman",
-    "price": 5599,
-    "title": "Titanium Earings in ged palladiumfinish metal",
+    "price": 15000,
+    "title": "White Gold Earings in ged palladiumfinish metal",
     "amount": 1
   },
   {
     "id": 12,
     "img": "image/product-img/e-4.jpg",
     "name": "Woman",
-    "price": 3499,
-    "title": "Titanium Earings in ged palladiumfinish metal",
+    "price": 5000,
+    "title": "Silver earrings Earings in ged palladiumfinish metal",
     "amount": 1
   }
 ]

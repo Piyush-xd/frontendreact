@@ -29,8 +29,8 @@ navbar.forEach(function(a){
       <header>
         <div className="top-header">
           <div className="container d-flex justify-content-between align-items-center py-3">
-            <span>Free shipping for orders over </span>
-            <span>Call: 800-6688-999</span>
+            <span>Free shipping for first orders </span>
+            <span>Contact us : +91-9999999999</span>
           </div>
         </div>
 

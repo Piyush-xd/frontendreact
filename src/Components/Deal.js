@@ -11,8 +11,7 @@ const Deal = () => {
               <div className="text-content py-5">
                 <h2>DEALS OF THE DAY</h2>
                 <h4>UPTO 60% OFF</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                  et dolore magna aliqua.</p>
+                <p>Limited Time Offer, Grabs as Soon As Possible</p>
               </div>
             </div>
           </div>

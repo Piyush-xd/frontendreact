@@ -11,7 +11,7 @@ const Blog = () => {
           <div className="col-12 mb-2 text-content text-center">
             <h2>LATEST NEWS FROM THE BLOG</h2>
             <p>This unique jewelry is handcrafted on the beautiful island of Nantucketusing fine silver and semi
-              precious stones. View glasse fasion collection 2018 by fanbong</p>
+              precious stones.</p>
           </div>
         </div>
         <div className="row align-items-center">

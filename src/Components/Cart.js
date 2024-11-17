@@ -51,10 +51,10 @@ const Cart = () => {
               )
             </h4>
             <h4 className="subtotal mx-3">
-              Sub Total<span>$ {Totalcost}</span>
+              Sub Total<span>₹ {Totalcost}</span>
             </h4>
             <h4 className="discount mx-3">
-              Discount <span>$ 0</span>
+              Discount <span>₹ 0</span>
             </h4>
             <h4 className="delivery mx-3">
               Delivery Charges <span>Free</span>
@@ -62,7 +62,7 @@ const Cart = () => {
             <h4 className=" mx-2 text-danger h4 total">
               TotalCost
               <small className=" h6 text-danger"> (Incl of all taxes.)</small>
-              <span>$ {Totalcost}</span>
+              <span>₹ {Totalcost}</span>
             </h4>
             <button
               type="button"
@@ -243,7 +243,7 @@ const Cart = () => {
                           {" "}
                           (Incl of all taxes.)
                         </small>
-                        <span className="mx-5">$ {Totalcost}</span>
+                        <span className="mx-5">₹ {Totalcost}</span>
                       </h4>
                       <div className="col-12">
                         <button

@@ -71,7 +71,7 @@ const ProductList = (props) => {
           <a>{props.title}</a>
         </h4>
         <div className="product-price">
-          <ins><span className="money text-white">${props.price}</span></ins>
+          <ins><span className="money text-white">₹{props.price}</span></ins>
         </div>
         <div className="d-flex align-items-center justify-content-between py-1">
           <div className="rating">
