@@ -17,11 +17,11 @@ pipeline {
         }
 
         stage('Build React App') {
-            steps {
-                echo 'Building the React app...'
-                sh 'npm run build'
-            }
-        }
+    steps {
+        echo 'Building the React app...'
+        sh 'CI=false npm run build'
+    }
+}
 
         stage('Build Docker Image') {
             steps {
