@@ -13,6 +13,7 @@ import Signup from "./Components/Signup";
 import ProductDetail from "./Components/ProductDetail";
 function App() {
   return (
+    <>
     <h1> hello</h1>
     <Router>
     <ScrollToTop/>
@@ -29,6 +30,7 @@ function App() {
       </Routes>
       <Footer/>
     </Router>
+  </>
   );
 }
 
