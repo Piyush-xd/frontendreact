@@ -14,7 +14,7 @@ import ProductDetail from "./Components/ProductDetail";
 function App() {
   return (
     <>
-    <h1> hellllo</h1>
+    <h1> Vinay Verma</h1>
     <Router>
     <ScrollToTop/>
       <NavBar />
