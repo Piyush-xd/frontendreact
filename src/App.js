@@ -14,7 +14,7 @@ import ProductDetail from "./Components/ProductDetail";
 function App() {
   return (
     <>
-    <h1> Shop</h1>
+    <h1> Shopping</h1>
     <Router>
     <ScrollToTop/>
       <NavBar />
